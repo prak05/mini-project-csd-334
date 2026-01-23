@@ -1,0 +1,8 @@
+.streamlit/secrets.toml
+data/
+__pycache__/
+*.pdf
+medbuddy_env/
+venv/
+.env
+Miniconda3-latest-Linux-x86_64.sh
